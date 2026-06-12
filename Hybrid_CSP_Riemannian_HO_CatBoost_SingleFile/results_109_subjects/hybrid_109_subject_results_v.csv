@@ -1,0 +1,2 @@
+subject_id,subject_name,status,n_trials,n_channels,accuracy,precision,recall,f1,mean_selected_features,total_features,classifier_backend,error_message
+1,s001,OK,44,14,0.704545454545455,0.736842105263158,0.636363636363636,0.682926829268293,8.33333333333333,18,Ensemble-linear_svm,

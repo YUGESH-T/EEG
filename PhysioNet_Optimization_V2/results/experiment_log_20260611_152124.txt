@@ -1,0 +1,10 @@
+[2026-06-11 15:21:24] Optimization sweep started. Mode: pilot | Subjects: 10 | Configs: 16
+[2026-06-11 15:21:24] Config Hist starting: Historical Baseline: standard CSP + no spectral + zscore + 0.5-3.5s + 14 CSP
+[2026-06-11 15:21:57] Config Hist done: Acc=0.5917 +/- 0.1519 F1=0.5871 (10 subjects, 32.9s)
+[2026-06-11 15:21:57] Config Base starting: Baseline: standard CSP + 3-band spectral + zscore + 0-4s
+[2026-06-11 15:22:50] Config Base done: Acc=0.5683 +/- 0.1514 F1=0.5623 (10 subjects, 52.7s)
+[2026-06-11 15:22:50] Config W1 starting: Window Sweep: 0.75-4.0s
+[2026-06-11 15:23:40] Config W1 done: Acc=0.5744 +/- 0.1701 F1=0.5540 (10 subjects, 50.3s)
+[2026-06-11 15:23:40] Config W2 starting: Window Sweep: 1.0-4.0s
+[2026-06-11 15:25:17] Config W2 done: Acc=0.5989 +/- 0.1332 F1=0.5829 (10 subjects, 96.5s)
+[2026-06-11 15:25:17] Config W3 starting: Window Sweep: 1.0-4.5s

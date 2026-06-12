@@ -1,0 +1,6 @@
+subject_id,subject_name,dataset,pipeline,status,n_trials,n_channels,csp_components,csp_feature_dim,accuracy,precision_val,recall_val,f1,error_message
+1,cho_s01,cho2017,csp_catboost,OK,200,68,16,48,0.715,0.747126436781609,0.65,0.695187165775401,
+2,cho_s02,cho2017,csp_catboost,OK,200,68,16,48,0.57,0.574468085106383,0.54,0.556701030927835,
+3,cho_s03,cho2017,csp_catboost,OK,200,68,16,48,0.945,0.932038834951456,0.96,0.945812807881773,
+4,cho_s04,cho2017,csp_catboost,OK,200,68,16,48,0.64,0.645833333333333,0.62,0.63265306122449,
+5,cho_s05,cho2017,csp_catboost,OK,200,68,16,48,0.75,0.755102040816326,0.74,0.747474747474747,

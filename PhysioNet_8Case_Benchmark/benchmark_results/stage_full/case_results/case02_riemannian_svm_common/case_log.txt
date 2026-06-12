@@ -1,0 +1,222 @@
+[2026-05-27 21:55:22] Config: riemannian | svm | common
+[2026-05-27 21:55:22] Processing s001
+[2026-05-27 21:56:35] Processing s002
+[2026-05-27 21:57:41] Processing s003
+[2026-05-27 21:58:53] Processing s004
+[2026-05-27 22:00:07] Processing s005
+[2026-05-27 22:01:08] Processing s006
+[2026-05-27 22:02:13] Processing s007
+[2026-05-27 22:03:16] Processing s008
+[2026-05-27 22:04:18] Processing s009
+[2026-05-27 22:05:16] Processing s010
+[2026-05-27 22:06:14] Processing s011
+[2026-05-27 22:07:19] Processing s012
+[2026-05-27 22:08:18] Processing s013
+[2026-05-27 22:09:28] Processing s014
+[2026-05-27 22:10:38] Processing s015
+[2026-05-27 22:11:47] Processing s016
+[2026-05-27 22:13:07] Processing s017
+[2026-05-27 22:14:30] Processing s018
+[2026-05-27 22:15:46] Processing s019
+[2026-05-27 22:17:01] Processing s020
+[2026-05-27 22:18:13] Processing s021
+[2026-05-27 22:19:21] Processing s022
+[2026-05-27 22:20:28] Processing s023
+[2026-05-27 22:21:42] Processing s024
+[2026-05-27 22:23:43] Processing s025
+[2026-05-27 22:24:55] Processing s026
+[2026-05-27 22:26:00] Processing s027
+[2026-05-27 22:27:06] Processing s028
+[2026-05-27 22:28:04] Processing s029
+[2026-05-27 22:29:07] Processing s030
+[2026-05-27 22:30:07] Processing s031
+[2026-05-27 22:31:12] Processing s032
+[2026-05-27 22:32:13] Processing s033
+[2026-05-27 22:33:20] Processing s034
+[2026-05-27 22:34:19] Processing s035
+[2026-05-27 22:35:25] Processing s036
+[2026-05-27 22:36:30] Processing s037
+[2026-05-27 22:37:37] Processing s038
+[2026-05-27 22:38:44] Processing s039
+[2026-05-27 22:39:48] Processing s040
+[2026-05-27 22:40:47] Processing s041
+[2026-05-27 22:41:51] Processing s042
+[2026-05-27 22:42:57] Processing s043
+[2026-05-27 22:44:00] Processing s044
+[2026-05-27 22:45:08] Processing s045
+[2026-05-27 22:46:10] Processing s046
+[2026-05-27 22:47:16] Processing s047
+[2026-05-27 22:48:18] Processing s048
+[2026-05-27 22:49:21] Processing s049
+[2026-05-27 22:50:22] Processing s050
+[2026-05-27 22:51:25] Processing s051
+[2026-05-27 22:52:23] Processing s052
+[2026-05-27 22:53:23] Processing s053
+[2026-05-27 22:54:28] Processing s054
+[2026-05-27 22:55:33] Processing s055
+[2026-05-27 22:56:38] Processing s056
+[2026-05-27 22:57:42] Processing s057
+[2026-05-27 22:58:42] Processing s058
+[2026-05-27 22:59:42] Processing s059
+[2026-05-27 23:00:42] Processing s060
+[2026-05-27 23:01:46] Processing s061
+[2026-05-27 23:02:50] Processing s062
+[2026-05-27 23:03:57] Processing s063
+[2026-05-27 23:05:00] Processing s064
+[2026-05-27 23:06:08] Processing s065
+[2026-05-27 23:07:08] Processing s066
+[2026-05-27 23:08:12] Processing s067
+[2026-05-27 23:09:13] Processing s068
+[2026-05-27 23:10:17] Processing s069
+[2026-05-27 23:11:19] Processing s070
+[2026-05-27 23:12:21] Processing s071
+[2026-05-27 23:13:26] Processing s072
+[2026-05-27 23:14:32] Processing s073
+[2026-05-27 23:15:35] Processing s074
+[2026-05-27 23:16:38] Processing s075
+[2026-05-27 23:17:44] Processing s076
+[2026-05-27 23:34:59] Processing s077
+[2026-05-27 23:35:53] Processing s078
+[2026-05-27 23:36:43] Processing s079
+[2026-05-27 23:37:36] Processing s080
+[2026-05-27 23:38:26] Processing s081
+[2026-05-27 23:39:22] Processing s082
+[2026-05-27 23:40:18] Processing s083
+[2026-05-27 23:41:20] Processing s084
+[2026-05-27 23:42:11] Processing s085
+[2026-05-27 23:43:10] Processing s086
+[2026-05-27 23:44:05] Processing s087
+[2026-05-27 23:45:02] Processing s088
+[2026-05-27 23:45:58] Processing s089
+[2026-05-27 23:46:48] Processing s090
+[2026-05-27 23:47:42] Processing s091
+[2026-05-27 23:48:33] Processing s092
+[2026-05-27 23:49:26] Processing s093
+[2026-05-27 23:50:22] Processing s094
+[2026-05-27 23:51:13] Processing s095
+[2026-05-27 23:52:03] Processing s096
+[2026-05-27 23:52:58] Processing s097
+[2026-05-27 23:53:52] Processing s098
+[2026-05-27 23:54:49] Processing s099
+[2026-05-27 23:55:43] Processing s100
+[2026-05-27 23:56:17] Processing s101
+[2026-05-27 23:57:09] Processing s102
+[2026-05-27 23:57:59] Processing s103
+[2026-05-28 12:27:19] Config: riemannian | svm | common
+[2026-05-28 12:27:27] Processing s103
+[2026-05-28 12:28:14] Processing s104
+[2026-05-28 12:28:57] Processing s105
+[2026-05-28 12:29:35] Processing s106
+[2026-05-28 12:30:10] Processing s107
+[2026-05-28 12:30:43] Processing s108
+[2026-05-28 12:31:21] Processing s109
+[2026-05-30 09:58:12] Config: riemannian | svm | common
+[2026-05-30 09:58:13] Skipping completed subject s001
+[2026-05-30 09:58:13] Skipping completed subject s002
+[2026-05-30 09:58:13] Skipping completed subject s003
+[2026-05-30 09:58:13] Skipping completed subject s004
+[2026-05-30 09:58:13] Skipping completed subject s005
+[2026-05-30 09:58:13] Skipping completed subject s006
+[2026-05-30 09:58:13] Skipping completed subject s007
+[2026-05-30 09:58:13] Skipping completed subject s008
+[2026-05-30 09:58:13] Skipping completed subject s009
+[2026-05-30 09:58:13] Skipping completed subject s010
+[2026-05-30 09:58:13] Skipping completed subject s011
+[2026-05-30 09:58:13] Skipping completed subject s012
+[2026-05-30 09:58:13] Skipping completed subject s013
+[2026-05-30 09:58:13] Skipping completed subject s014
+[2026-05-30 09:58:14] Skipping completed subject s015
+[2026-05-30 09:58:14] Skipping completed subject s016
+[2026-05-30 09:58:14] Skipping completed subject s017
+[2026-05-30 09:58:14] Skipping completed subject s018
+[2026-05-30 09:58:14] Skipping completed subject s019
+[2026-05-30 09:58:14] Skipping completed subject s020
+[2026-05-30 09:58:14] Skipping completed subject s021
+[2026-05-30 09:58:14] Skipping completed subject s022
+[2026-05-30 09:58:14] Skipping completed subject s023
+[2026-05-30 09:58:14] Skipping completed subject s024
+[2026-05-30 09:58:14] Skipping completed subject s025
+[2026-05-30 09:58:14] Skipping completed subject s026
+[2026-05-30 09:58:14] Skipping completed subject s027
+[2026-05-30 09:58:14] Skipping completed subject s028
+[2026-05-30 09:58:14] Skipping completed subject s029
+[2026-05-30 09:58:14] Skipping completed subject s030
+[2026-05-30 09:58:14] Skipping completed subject s031
+[2026-05-30 09:58:14] Skipping completed subject s032
+[2026-05-30 09:58:15] Skipping completed subject s033
+[2026-05-30 09:58:15] Skipping completed subject s034
+[2026-05-30 09:58:15] Skipping completed subject s035
+[2026-05-30 09:58:15] Skipping completed subject s036
+[2026-05-30 09:58:15] Skipping completed subject s037
+[2026-05-30 09:58:15] Skipping completed subject s038
+[2026-05-30 09:58:15] Skipping completed subject s039
+[2026-05-30 09:58:15] Skipping completed subject s040
+[2026-05-30 09:58:15] Skipping completed subject s041
+[2026-05-30 09:58:15] Skipping completed subject s042
+[2026-05-30 09:58:15] Skipping completed subject s043
+[2026-05-30 09:58:15] Skipping completed subject s044
+[2026-05-30 09:58:15] Skipping completed subject s045
+[2026-05-30 09:58:16] Skipping completed subject s046
+[2026-05-30 09:58:16] Skipping completed subject s047
+[2026-05-30 09:58:16] Skipping completed subject s048
+[2026-05-30 09:58:16] Skipping completed subject s049
+[2026-05-30 09:58:16] Skipping completed subject s050
+[2026-05-30 09:58:16] Skipping completed subject s051
+[2026-05-30 09:58:16] Skipping completed subject s052
+[2026-05-30 09:58:16] Skipping completed subject s053
+[2026-05-30 09:58:16] Skipping completed subject s054
+[2026-05-30 09:58:16] Skipping completed subject s055
+[2026-05-30 09:58:16] Skipping completed subject s056
+[2026-05-30 09:58:16] Skipping completed subject s057
+[2026-05-30 09:58:16] Skipping completed subject s058
+[2026-05-30 09:58:16] Skipping completed subject s059
+[2026-05-30 09:58:16] Skipping completed subject s060
+[2026-05-30 09:58:16] Skipping completed subject s061
+[2026-05-30 09:58:16] Skipping completed subject s062
+[2026-05-30 09:58:17] Skipping completed subject s063
+[2026-05-30 09:58:17] Skipping completed subject s064
+[2026-05-30 09:58:17] Skipping completed subject s065
+[2026-05-30 09:58:17] Skipping completed subject s066
+[2026-05-30 09:58:17] Skipping completed subject s067
+[2026-05-30 09:58:17] Skipping completed subject s068
+[2026-05-30 09:58:17] Skipping completed subject s069
+[2026-05-30 09:58:17] Skipping completed subject s070
+[2026-05-30 09:58:17] Skipping completed subject s071
+[2026-05-30 09:58:17] Skipping completed subject s072
+[2026-05-30 09:58:17] Skipping completed subject s073
+[2026-05-30 09:58:18] Skipping completed subject s074
+[2026-05-30 09:58:18] Skipping completed subject s075
+[2026-05-30 09:58:18] Skipping completed subject s076
+[2026-05-30 09:58:18] Skipping completed subject s077
+[2026-05-30 09:58:18] Skipping completed subject s078
+[2026-05-30 09:58:18] Skipping completed subject s079
+[2026-05-30 09:58:18] Skipping completed subject s080
+[2026-05-30 09:58:18] Skipping completed subject s081
+[2026-05-30 09:58:18] Skipping completed subject s082
+[2026-05-30 09:58:18] Skipping completed subject s083
+[2026-05-30 09:58:18] Skipping completed subject s084
+[2026-05-30 09:58:18] Skipping completed subject s085
+[2026-05-30 09:58:18] Skipping completed subject s086
+[2026-05-30 09:58:18] Skipping completed subject s087
+[2026-05-30 09:58:18] Skipping completed subject s088
+[2026-05-30 09:58:18] Skipping completed subject s089
+[2026-05-30 09:58:18] Skipping completed subject s090
+[2026-05-30 09:58:18] Skipping completed subject s091
+[2026-05-30 09:58:19] Skipping completed subject s092
+[2026-05-30 09:58:19] Skipping completed subject s093
+[2026-05-30 09:58:19] Skipping completed subject s094
+[2026-05-30 09:58:19] Skipping completed subject s095
+[2026-05-30 09:58:19] Skipping completed subject s096
+[2026-05-30 09:58:19] Skipping completed subject s097
+[2026-05-30 09:58:19] Skipping completed subject s098
+[2026-05-30 09:58:19] Skipping completed subject s099
+[2026-05-30 09:58:19] Skipping completed subject s100
+[2026-05-30 09:58:19] Skipping completed subject s101
+[2026-05-30 09:58:19] Skipping completed subject s102
+[2026-05-30 09:58:19] Skipping completed subject s103
+[2026-05-30 09:58:19] Skipping completed subject s104
+[2026-05-30 09:58:19] Skipping completed subject s105
+[2026-05-30 09:58:20] Skipping completed subject s106
+[2026-05-30 09:58:20] Skipping completed subject s107
+[2026-05-30 09:58:20] Skipping completed subject s108
+[2026-05-30 09:58:20] Skipping completed subject s109

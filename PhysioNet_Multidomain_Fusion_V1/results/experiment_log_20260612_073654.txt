@@ -1,0 +1,40 @@
+[2026-06-12 07:36:54] Multi-domain sweep started. Mode: full | Subjects: 109 | Configs: 15
+[2026-06-12 07:36:54] Config E1 starting: CSP Only
+[2026-06-12 07:42:14] Config E1 done: Acc=0.5874 +/- 0.1538 F1=0.5724 (109 subjects, 320.0s)
+[2026-06-12 07:42:14] Config E2 starting: CSP + PSD
+[2026-06-12 08:00:36] Config E2 done: Acc=0.5738 +/- 0.1479 F1=0.5586 (109 subjects, 1102.7s)
+[2026-06-12 08:00:36] Config E3 starting: CSP + PSD + Mu/Beta
+[2026-06-12 08:23:45] Config E3 done: Acc=0.5634 +/- 0.1504 F1=0.5461 (109 subjects, 1388.6s)
+[2026-06-12 08:23:45] Config E4 starting: CSP + PSD + Temporal
+[2026-06-12 09:23:31] Config E4 done: Acc=0.5671 +/- 0.1449 F1=0.5495 (109 subjects, 3586.1s)
+[2026-06-12 09:23:31] Config E5 starting: Riemannian Only
+[2026-06-12 10:16:48] Config E5 done: Acc=0.5717 +/- 0.1353 F1=0.5456 (109 subjects, 3197.0s)
+[2026-06-12 10:16:48] Config E6 starting: CSP + Riemannian
+[2026-06-12 11:09:17] Config E6 done: Acc=0.5642 +/- 0.1370 F1=0.5441 (109 subjects, 3149.0s)
+[2026-06-12 11:09:17] Config E7 starting: Full Fusion (CSP+PSD+Temp+Riem)
+[2026-06-12 12:05:10]   s036 ERROR: Out of memory.
+[2026-06-12 12:05:15]   s037 ERROR: Out of memory.
+[2026-06-12 12:05:16]   s038 ERROR: Out of memory.
+[2026-06-12 12:05:20]   s039 ERROR: Out of memory.
+[2026-06-12 12:05:22]   s040 ERROR: Out of memory.
+[2026-06-12 12:05:24]   s041 ERROR: Out of memory.
+[2026-06-12 12:05:26]   s042 ERROR: Out of memory.
+[2026-06-12 12:05:28]   s043 ERROR: Out of memory.
+[2026-06-12 12:05:32]   s044 ERROR: Out of memory.
+[2026-06-12 12:05:36]   s045 ERROR: Out of memory.
+[2026-06-12 12:05:38]   s046 ERROR: Out of memory.
+[2026-06-12 12:05:41]   s047 ERROR: Out of memory.
+[2026-06-12 12:05:44]   s048 ERROR: Out of memory.
+[2026-06-12 12:05:47]   s049 ERROR: Out of memory.
+[2026-06-12 12:06:44]   s050 ERROR: Out of memory.
+[2026-06-12 12:06:48]   s051 ERROR: Out of memory.
+[2026-06-12 12:07:17]   s052 ERROR: Out of memory.
+[2026-06-12 12:07:18]   s053 ERROR: Out of memory.
+[2026-06-12 12:07:20]   s054 ERROR: Out of memory.
+[2026-06-12 12:07:22]   s055 ERROR: Out of memory.
+[2026-06-12 12:07:23]   s056 ERROR: Out of memory.
+[2026-06-12 12:07:24]   s057 ERROR: Out of memory.
+[2026-06-12 12:07:28]   s058 ERROR: Out of memory.
+[2026-06-12 12:07:34]   s059 ERROR: Out of memory.
+[2026-06-12 12:07:39]   s060 ERROR: Out of memory.
+[2026-06-12 12:07:42]   s061 ERROR: Out of memory.

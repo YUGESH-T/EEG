@@ -1,0 +1,10 @@
+[2026-05-29 16:19:48] Config: csp | svm | butterworth
+[2026-05-29 16:19:48] Processing s015
+[2026-05-29 16:20:11] Config: csp | svm | butterworth
+[2026-05-29 16:20:11] Processing s001
+[2026-05-29 16:20:14] Processing s002
+[2026-05-29 16:20:16] Processing s003
+[2026-05-29 16:23:11] Config: csp | svm | butterworth
+[2026-05-29 16:23:11] Processing s010
+[2026-05-29 16:25:03] Config: csp | svm | butterworth
+[2026-05-29 16:25:03] Skipping completed subject s015

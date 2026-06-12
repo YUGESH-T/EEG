@@ -1,0 +1,33 @@
+[2026-06-11 22:57:37] Multi-domain sweep started. Mode: pilot | Subjects: 10 | Configs: 15
+[2026-06-11 22:57:37] Config E1 starting: CSP Only
+[2026-06-11 22:58:33] Config E1 done: Acc=0.5617 +/- 0.1673 F1=0.5584 (10 subjects, 55.9s)
+[2026-06-11 22:58:33] Config E2 starting: CSP + PSD
+[2026-06-11 23:01:54] Config E2 done: Acc=0.5650 +/- 0.1756 F1=0.5634 (10 subjects, 200.6s)
+[2026-06-11 23:01:54] Config E3 starting: CSP + PSD + Mu/Beta
+[2026-06-11 23:12:53] Config E3 done: Acc=0.5400 +/- 0.1633 F1=0.5280 (10 subjects, 659.7s)
+[2026-06-11 23:12:53] Config E4 starting: CSP + PSD + Temporal
+[2026-06-11 23:48:48] Config E4 done: Acc=0.5411 +/- 0.1651 F1=0.5307 (10 subjects, 2154.6s)
+[2026-06-11 23:48:48] Config E5 starting: Riemannian Only
+[2026-06-12 00:02:18] Config E5 done: Acc=0.5581 +/- 0.1844 F1=0.5459 (10 subjects, 809.6s)
+[2026-06-12 00:02:18] Config E6 starting: CSP + Riemannian
+[2026-06-12 00:07:44] Config E6 done: Acc=0.5547 +/- 0.1556 F1=0.5413 (10 subjects, 326.3s)
+[2026-06-12 00:07:44] Config E7 starting: Full Fusion (CSP+PSD+Temp+Riem)
+[2026-06-12 00:14:26] Config E7 done: Acc=0.5581 +/- 0.1519 F1=0.5394 (10 subjects, 401.8s)
+[2026-06-12 00:14:26] Config E8 starting: Full Fusion + ANOVA (k=32)
+[2026-06-12 00:16:07] Config E8 done: Acc=0.5789 +/- 0.1748 F1=0.5634 (10 subjects, 101.1s)
+[2026-06-12 00:16:07] Config E9 starting: Full Fusion + MI (k=32)
+[2026-06-12 00:17:47] Config E9 done: Acc=0.5619 +/- 0.1801 F1=0.5592 (10 subjects, 100.3s)
+[2026-06-12 00:17:47] Config E10 starting: FBCSP + PSD + Temp + Riem
+[2026-06-12 00:23:13] Config E10 done: Acc=0.5111 +/- 0.0977 F1=0.4884 (10 subjects, 325.5s)
+[2026-06-12 00:23:13] Config E11 starting: CSP + Temporal
+[2026-06-12 00:24:58] Config E11 done: Acc=0.5458 +/- 0.1749 F1=0.5382 (10 subjects, 105.3s)
+[2026-06-12 00:24:58] Config E12 starting: CSP + Temporal + ANOVA (k=32)
+[2026-06-12 00:25:30] Config E12 done: Acc=0.5614 +/- 0.1880 F1=0.5463 (10 subjects, 32.4s)
+[2026-06-12 00:25:30] Config E13 starting: CSP + Temporal + MI (k=32)
+[2026-06-12 00:26:03] Config E13 done: Acc=0.5856 +/- 0.1606 F1=0.5744 (10 subjects, 32.4s)
+[2026-06-12 00:26:03] Config E14 starting: CSP + Temporal + Fisher (k=32)
+[2026-06-12 00:26:35] Config E14 done: Acc=0.5592 +/- 0.1922 F1=0.5453 (10 subjects, 31.9s)
+[2026-06-12 00:26:35] Config E15 starting: Full Fusion + Fisher (k=32)
+[2026-06-12 00:28:15] Config E15 done: Acc=0.5767 +/- 0.1747 F1=0.5587 (10 subjects, 100.4s)
+[2026-06-12 00:28:15] Best config: E13 (58.56%) vs baseline E1 (56.17%): +2.39 pp
+[2026-06-12 00:28:15] Sweep complete. Total runtime: 5438.1 sec. Results: C:\Users\yuges\OneDrive\Desktop\Project1\PhysioNet_Multidomain_Fusion_V1\results\summary_20260611_225737.csv

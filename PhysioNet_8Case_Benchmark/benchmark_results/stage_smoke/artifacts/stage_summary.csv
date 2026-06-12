@@ -1,0 +1,2 @@
+CaseId,FeatureType,Classifier,FilterType,SubjectCount,SubjectCoveragePct,MeanAccuracy,StdAccuracy,MedianAccuracy,BestAccuracy,WorstAccuracy,SubjectsAbove70,SubjectsAbove80,SubjectsAbove90,MeanPrecision,MeanRecall,MeanF1,MeanSelectedFeatureCount,MeanHOBestScore,BestSubject,WorstSubject
+case05_csp_svm_butterworth,csp,svm,butterworth,5,500,0.775,0.205395959064437,0.875,1,0.5,3,3,1,0.9,0.6,0.689523809523809,3,0.0228571428571428,s015,s010

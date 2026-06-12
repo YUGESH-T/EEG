@@ -1,0 +1,16 @@
+[2026-05-29 16:19:48] Stage smoke starting with 1 subjects
+[2026-05-29 16:19:48] Starting case case05_csp_svm_butterworth
+[2026-05-29 16:20:01] Finished case case05_csp_svm_butterworth
+[2026-05-29 16:20:03] Stage smoke completed
+[2026-05-29 16:20:11] Stage smoke starting with 3 subjects
+[2026-05-29 16:20:11] Starting case case05_csp_svm_butterworth
+[2026-05-29 16:20:20] Finished case case05_csp_svm_butterworth
+[2026-05-29 16:20:21] Stage smoke completed
+[2026-05-29 16:23:11] Stage smoke starting with 1 subjects
+[2026-05-29 16:23:11] Starting case case05_csp_svm_butterworth
+[2026-05-29 16:23:14] Finished case case05_csp_svm_butterworth
+[2026-05-29 16:23:15] Stage smoke completed
+[2026-05-29 16:25:03] Stage smoke starting with 1 subjects
+[2026-05-29 16:25:03] Starting case case05_csp_svm_butterworth
+[2026-05-29 16:25:04] Finished case case05_csp_svm_butterworth
+[2026-05-29 16:25:05] Stage smoke completed

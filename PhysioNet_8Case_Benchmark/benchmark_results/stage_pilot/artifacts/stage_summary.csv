@@ -1,0 +1,2 @@
+CaseId,FeatureType,Classifier,FilterType,SubjectCount,SubjectCoveragePct,MeanAccuracy,StdAccuracy,MedianAccuracy,BestAccuracy,WorstAccuracy,SubjectsAbove70,SubjectsAbove80,SubjectsAbove90,MeanPrecision,MeanRecall,MeanF1,MeanSelectedFeatureCount,MeanHOBestScore,BestSubject,WorstSubject
+case01_csp_svm_common,csp,svm,common,10,1000,0.625,0.25,0.625,0.875,0.25,4,4,0,0.691666666666667,0.475,0.548333333333333,2.3,0.0605952380952381,s002,s008

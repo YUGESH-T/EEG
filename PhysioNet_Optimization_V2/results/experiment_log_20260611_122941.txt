@@ -1,0 +1,33 @@
+[2026-06-11 12:29:41] Optimization sweep started. Mode: pilot | Subjects: 10 | Configs: 15
+[2026-06-11 12:29:41] Config A1 starting: Baseline: standard CSP + 3-band spectral + zscore
+[2026-06-11 12:30:39] Config A1 done: Acc=0.5683 +/- 0.1514 F1=0.5623 (10 subjects, 57.4s)
+[2026-06-11 12:30:39] Config A2 starting: 6-band spectral (theta through upper beta)
+[2026-06-11 12:32:13] Config A2 done: Acc=0.5525 +/- 0.1726 F1=0.5520 (10 subjects, 94.3s)
+[2026-06-11 12:32:13] Config A3 starting: 6-band + ANOVA top-16
+[2026-06-11 12:33:15] Config A3 done: Acc=0.5706 +/- 0.1663 F1=0.5627 (10 subjects, 62.3s)
+[2026-06-11 12:33:15] Config A4 starting: 6-band + ANOVA top-32
+[2026-06-11 12:34:20] Config A4 done: Acc=0.5803 +/- 0.1490 F1=0.5713 (10 subjects, 64.9s)
+[2026-06-11 12:34:20] Config A5 starting: 6-band + ANOVA top-48
+[2026-06-11 12:35:27] Config A5 done: Acc=0.5808 +/- 0.1364 F1=0.5776 (10 subjects, 66.9s)
+[2026-06-11 12:35:27] Config A6 starting: 6-band + ANOVA top-64
+[2026-06-11 12:36:41] Config A6 done: Acc=0.5728 +/- 0.1561 F1=0.5605 (10 subjects, 73.8s)
+[2026-06-11 12:36:41] Config B1 starting: 6-band + robust normalization (median/IQR)
+[2026-06-11 12:38:05] Config B1 done: Acc=0.5525 +/- 0.1726 F1=0.5520 (10 subjects, 83.9s)
+[2026-06-11 12:38:05] Config B2 starting: 6-band + no normalization (control)
+[2026-06-11 12:39:32] Config B2 done: Acc=0.5503 +/- 0.1750 F1=0.5484 (10 subjects, 86.7s)
+[2026-06-11 12:39:32] Config C1 starting: 6-band + MI window 0-3s
+[2026-06-11 12:41:00] Config C1 done: Acc=0.5894 +/- 0.1725 F1=0.5802 (10 subjects, 88.5s)
+[2026-06-11 12:41:00] Config C2 starting: 6-band + MI window 0.5-4s
+[2026-06-11 12:42:29] Config C2 done: Acc=0.5497 +/- 0.1835 F1=0.5569 (10 subjects, 88.7s)
+[2026-06-11 12:42:29] Config C3 starting: 6-band + MI window 1-4s
+[2026-06-11 12:55:01] Config C3 done: Acc=0.5997 +/- 0.1580 F1=0.5616 (10 subjects, 752.2s)
+[2026-06-11 12:55:01] Config C4 starting: 6-band + MI window 1-5s
+[2026-06-11 12:56:28] Config C4 done: Acc=0.5967 +/- 0.1244 F1=0.5976 (10 subjects, 86.6s)
+[2026-06-11 12:56:28] Config D1 starting: Ledoit-Wolf shrinkage CSP + 6-band
+[2026-06-11 12:57:53] Config D1 done: Acc=0.5953 +/- 0.1835 F1=0.5736 (10 subjects, 85.7s)
+[2026-06-11 12:57:53] Config D2 starting: Shrinkage CSP + 6-band + 0.5-4s window
+[2026-06-11 12:59:17] Config D2 done: Acc=0.5986 +/- 0.1674 F1=0.5807 (10 subjects, 83.8s)
+[2026-06-11 12:59:17] Config E1 starting: Combined: shrinkage + 6-band + ANOVA-32 + robust + 0.5-4s
+[2026-06-11 13:00:18] Config E1 done: Acc=0.5964 +/- 0.1874 F1=0.5976 (10 subjects, 61.1s)
+[2026-06-11 13:00:19] Best config: C3 (59.97%) vs baseline A1 (56.83%): +3.14 pp
+[2026-06-11 13:00:19] Sweep complete. Total runtime: 1837.0 sec. Results: C:\Users\yuges\OneDrive\Desktop\Project1\PhysioNet_Optimization_V2\results\summary_20260611_122941.csv
